@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ipc.h": "c",
+        "client_orchestre.h": "c",
+        "client_service.h": "c",
+        "sem.h": "c"
+    }
+}
